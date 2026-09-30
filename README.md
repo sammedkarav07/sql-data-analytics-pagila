@@ -1,2 +1,5 @@
-# sql-data-analytics-pagila
-75-question SQL data analytics practice project using PostgreSQL and the Pagila database.
+sql-data-analytics-pagila/
+│
+├── README.md
+├── SQL_Data_Analytics_75_Questions_ONLY.sql
+└── SQL_Data_Analytics_75_Answers.sql
